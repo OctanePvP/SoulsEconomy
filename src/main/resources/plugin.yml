@@ -1,0 +1,7 @@
+name: SoulsEconomy
+version: '${project.version}'
+main: com.octane.sllly.soulseconomy.SoulsEconomy
+api-version: 1.19
+depend:
+  - OctaneShop
+  - PlaceholderAPI
